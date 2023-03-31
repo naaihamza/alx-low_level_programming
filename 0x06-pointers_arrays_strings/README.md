@@ -137,5 +137,3 @@ You are not allowed to use ,
 	You are allowed to use the standard library
 	The output should look like the following example, and formatted exactly the same way
 
-
-
